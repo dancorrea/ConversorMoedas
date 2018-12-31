@@ -1,5 +1,8 @@
 <resources>
-    <string name="app_name">Conversor Moedas</string>
+    <string name="app_name">Conversor de Moedas</string>
+    <string name="texto_entrada">Qual o valor em Real?</string>
+    <string name="texto_escolha">Moeda:</string>
+    <string name="botao">Converter</string>
 
     <string-array name="array_moedas">
         <item>Dolar</item>
